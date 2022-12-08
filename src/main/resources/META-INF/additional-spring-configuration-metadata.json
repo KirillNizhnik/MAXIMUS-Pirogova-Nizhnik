@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "hibernate.driver_class",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.driver_class."
+    },
+    {
+      "name": "hibernate.dialect",
+      "type": "java.lang.String",
+      "description": "Description for hibernate.dialect."
+    }
+  ] }
