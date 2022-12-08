@@ -1,2 +1,4 @@
 # MAXIMUS
 #SETTINGS PROPERTIES AND CREATE MYSQL DATABASE
+#Pirogova - front 
+#Nizhnik - back 
